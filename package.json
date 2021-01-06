@@ -26,6 +26,6 @@
   "homepage": "https://github.com/NintendoZaedus/glitch.js#readme",
   "dependencies": {
     "@types/node": "^13.13.5",
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   }
 }
